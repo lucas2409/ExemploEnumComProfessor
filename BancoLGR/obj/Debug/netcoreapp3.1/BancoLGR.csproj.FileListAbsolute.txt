@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.AssemblyInfo.cs
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.exe
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.deps.json
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.runtimeconfig.json
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.dll
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\bin\Debug\netcoreapp3.1\BancoLGR.pdb
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.dll
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.pdb
+C:\Users\dell\Desktop\Recomeco\Udemy\ProjetoBanco\BancoLGR\BancoLGR\obj\Debug\netcoreapp3.1\BancoLGR.genruntimeconfig.cache
